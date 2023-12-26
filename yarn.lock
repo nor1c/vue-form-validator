@@ -12,10 +12,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.14.53.tgz#251b4cd6760fadb4d68a05815e6dc5e432d69cd6"
   integrity sha512-W2dAL6Bnyn4xa/QRSU3ilIK4EzD5wgYXKXJiS1HDF5vU3675qc2bvFyLwbUcdmssDveyndy7FbitrCoiV/eMLg==
 
-"@vitejs/plugin-vue@^3.0.0":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-3.0.1.tgz#b6af8f782485374bbb5fe09edf067a845bf4caae"
-  integrity sha512-Ll9JgxG7ONIz/XZv3dssfoMUDu9qAnlJ+km+pBA0teYSXzwPCIzS/e1bmwNYl5dcQGs677D21amgfYAnzMl17A==
+"@vitejs/plugin-vue@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-5.0.0.tgz#8e8946548e6dfd9eb0391bbc282ec8e52103e0dd"
+  integrity sha512-7x5e8X4J1Wi4NxudGjJBd2OFerAi/0nzF80ojCzvfj347WVr0YSn82C8BSsgwSHzlk9Kw5xnZfj0/7RLnNwP5w==
 
 "@vue/compiler-core@3.2.37":
   version "3.2.37"
